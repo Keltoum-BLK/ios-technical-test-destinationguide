@@ -8,7 +8,7 @@ Pour t'aider, nous avons déjà créé le service `DestinationFetchingService` q
 
 Pour faire ce test, tu peux **forker ce repo** et faire l'implémentation de ton coté, tu nous enverras ensuite l'URL de ton repo.
 
-Chez Evaneos, nous accordons beaucoup d'importance à la **qualité du code et à la qualité de l'expérience utilisateur** de nos produits. Dans ce test, notre but n'est pas tant de savoir si tu parviendras à construire ces écrans mais plutôt **la manière dont tu le feras**. N'hésite pas à faire attention aux détails, à être **rigoureux et prévoyant** sur l'expérience utilisateur (lenteur API, qualité UI) et sur **la propreté, la structure et la clarté du code**. N'hésites pas à nous solliciter si tu as des questions.
+Chez Evaneos, nous accordons beaucoup d'importance à la **qualité du code et à la qualité de l'expérience utilisateur** de nos produits. Dans ce test, notre but n'est pas tant de savoir si tu parviendras à construire ces écrans mais plutôt **la manière dont tu le feras**. N'hésite pas à faire attention aux détails, à être **rigoureux et prévoyant** sur l'expérience utilisateur (lenteur API, qualité UI) et sur **la propreté, la structure et la clarté du code**. N'hésite pas à nous solliciter si tu as des questions.
 
 Nous souhaitons aussi que dans ce test tu nous montres ta capacité à **implémenter des tests unitaires**. Il n'y a pas besoin d'en faire pour tout, mais nous souhaitons en voir.
 
@@ -27,7 +27,7 @@ Cet écran va accueillir les destinations que le service retourne.
 
 L'affichage des destinations doit être par ordre alphabétique.
 
-Lorsque l'utilisateur va sélectionner une destination, il faut afficher la vue Détails qui correspond à cette destination.
+Lorsque l'utilisateur va sélectionner une destination, il faut push la vue Détails qui correspond à cette destination.
 
 ### Vue Détails
 
