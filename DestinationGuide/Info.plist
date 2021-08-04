@@ -21,5 +21,13 @@
 			</array>
 		</dict>
 	</dict>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Averta-Bold.otf</string>
+		<string>Averta-ExtraBold.otf</string>
+		<string>Averta-Light.otf</string>
+		<string>Averta-Regular.otf</string>
+		<string>Averta-Semibold.otf</string>
+	</array>
 </dict>
 </plist>
